@@ -1,0 +1,7 @@
+task.js*
+
+app/**/*.js
+app/**/*.map
+bower_components
+node_modules
+typings

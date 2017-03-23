@@ -1,0 +1,26 @@
+{
+  "name": "task-list-mean",
+  "description": "Task List MEAN",
+  "main": "server.js",
+  "authors": [
+    "mkvster"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Task-List",
+    "MEAN"
+  ],
+  "homepage": "https://github.com/NCGTC/task-list-mean",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
